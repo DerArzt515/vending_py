@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Mars Bar",
+        "price": 1.75,
+        "count": 35
+    },
+    {
+        "name": "Nature Valley Bar",
+        "price": 3.75,
+        "count": 20
+    },{
+        "name": "Lays Classic Potatoe Chips",
+        "price": 1.00,
+        "count": 15
+    },{
+        "name": "BubbleYum Bubble Gum",
+        "price": 0.75,
+        "count": 60
+    },{
+        "name": "Altoids Arctic Blast",
+        "price": 0.45,
+        "count": 13
+    },{
+        "name": "Fiji Water",
+        "price": 3.40,
+        "count": 5
+    },{
+        "name": "Beef Jerkey",
+        "price": 5.00,
+        "count": 16
+    }
+]
